@@ -1,0 +1,638 @@
+body {
+  background: rgb(75, 27, 27);
+  background: linear-gradient(
+    278deg,
+    rgba(75, 27, 27, 1) 11%,
+    rgba(159, 41, 41, 1) 100%
+  );
+
+  margin: 0;
+  padding: 0;
+}
+
+.navSection {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.all {
+  display: flex;
+  justify-content: space-between;
+  height: 100vh;
+  width: 100%;
+}
+
+.leftsideBar {
+  height: 75vh;
+  width: 10vh;
+  position: relative;
+  border-radius: 30px;
+  margin-top: 3vh;
+  left: 6vh;
+  background-color: rgba(240, 248, 255, 0.142);
+  display: flex;
+  flex-direction: column;
+}
+.rightsideBar {
+  height: 50vh;
+  width: 10vh;
+  position: relative;
+  border-radius: 30px;
+  margin-top: 3vh;
+  right: 6vh;
+  background-color: rgba(240, 248, 255, 0.142);
+  display: flex;
+  flex-direction: column;
+}
+.center {
+  position: relative;
+  width: 80%;
+  height: 100vh;
+  padding: 0vh 4vh;
+}
+
+main {
+  display: flex;
+  width: 100%;
+}
+/* 
+//////////////////////////////////////////////////////////////
+كود اول كارد تبعت الرصيد
+//////////////////////////////////////////////////////////////// */
+
+.balanceCards {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border-radius: 15px;
+  margin-top: 5vh;
+  width: 60vh;
+  height: 250px;
+
+  /* ✨ تأثير الزجاج ✨ */
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+/* 🔹 رأس البطاقة */
+.card-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
+.bank-name {
+  font-size: 18px;
+  color: aliceblue;
+  opacity: 0.7;
+}
+
+.bank-name:hover {
+  color: aliceblue;
+  opacity: 1;
+  cursor: pointer;
+}
+/* 🔹 أيقونة إظهار/إخفاء الرصيد */
+.toggle-balance {
+  color: aliceblue;
+  cursor: pointer;
+  font-size: 18px;
+  transition: 0.3s;
+  opacity: 0.7;
+}
+
+.toggle-balance:hover {
+  opacity: 1;
+}
+
+/* 🔹 معلومات الرصيد */
+.balance-info {
+  color: white;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.label {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.amount {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* 🔹 QR Code */
+.qr-container img {
+  width: 50px;
+  border-radius: 5px;
+}
+
+.qr-container img:hover {
+  cursor: pointer;
+}
+
+/* 🔹 الأزرار */
+.actions {
+  display: flex;
+  gap: 10px;
+}
+
+.button2 {
+  width: 20vh;
+  margin-top: 2vh;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: bold;
+  border: 2px solid white;
+  background: transparent;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.button2:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+/* 
+////////////////////////////////////////////////////////////////////
+كود ثاني جزء من فوق الي فيه معلومات الهيستوري والحركات 
+//////////////////////////////////////////////////////////////////// */
+
+.HistoryItems {
+  margin-top: 5vh;
+
+  position: absolute;
+  right: 7vh;
+  display: flex;
+  flex-direction: column;
+}
+.HistoryItems span {
+  color: white;
+  left: 0;
+}
+.items {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding-left: 10px;
+  border-radius: 30px;
+  width: 70vh;
+  height: 8vh;
+  margin-top: 2vh;
+
+  /* ✨ تأثير الزجاج ✨ */
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+.items img {
+  width: 100px;
+  border-radius: 20px;
+}
+.discr {
+  width: 90%;
+  margin-left: 2vh;
+  margin-top: 1vh;
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  text-align: left;
+}
+
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+
+.show-more-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  color: white;
+  /* border: 2px solid white; */
+  padding: 10px 15px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.show-more-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.more-content {
+  display: none;
+  margin-top: 15px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  backdrop-filter: blur(10px);
+  color: white;
+  transition: 0.3s;
+}
+
+/*
+
+////////////////////////////////////////////////////////////////////////////////////
+هذا كود الناف بار الابيض على الجهة اليسار واليمين اذا كان موجود 
+////////////////////////////////////////////////////////////////////////////////////
+
+*/
+
+.button-container {
+  display: flex;
+  background-color: black;
+  width: 25%;
+  height: 70px;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 5px;
+
+  position: relative;
+  left: -100%; /* يبدأ العنصر خارج الشاشة من الجهة اليسرى */
+  transition: left 1500ms ease-out; /* انيميشن لمدة ثانية */
+}
+
+#animatedDiv2.visible {
+  left: 0; /* يتحرك العنصر إلى موضعه الأصلي */
+  background-color: transparent;
+}
+
+.hidden {
+  visibility: hidden; /* إخفاء العنصر حتى يتم تحريكه */
+}
+
+.button {
+  outline: 0 !important;
+  border: 0 !important;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #d3d3d3;
+  transition: all ease-in-out 0.1s;
+  cursor: pointer;
+}
+
+.button:hover {
+  transform: translateY(-3px);
+}
+
+.icon {
+  font-size: 25px;
+}
+
+/* //////////////////////////////////////////////////////////////////////////////////// */
+
+/* //////////////////////////////////////////////////////////////////////////////////// */
+/*  */
+nav {
+  position: relative;
+  right: 0;
+  width: 25%;
+  margin-top: 1vh;
+  height: 7vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.207);
+  border-radius: 15px;
+}
+nav button {
+  background: none;
+  color: #d3d3d3;
+  border: none;
+  border-radius: 15px;
+}
+
+/* 
+//////////////////////////////////////////////////////////////////////////////////////////////////
+كوج السيرتش 
+///////////////////////////////////////////////////////////////////////////////////////////////// */
+
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700");
+
+.search-box {
+  font-size: 10px;
+  display: inline-block;
+  position: relative;
+  border-radius: 2.5em;
+}
+.search-box input[type="text"] {
+  font-family: inherit;
+  font-weight: bold;
+  width: 2.5em;
+  height: 2.5em;
+  padding: 0.3em 2.1em 0.3em 0.7em;
+  border: none;
+  box-sizing: border-box;
+  border-radius: 2.5em;
+  transition: width 800ms cubic-bezier(0.68, -0.55, 0.27, 1.55) 150ms;
+}
+.search-box input[type="text"]:focus {
+  outline: none;
+}
+.search-box input[type="text"]:focus,
+.search-box input[type="text"]:not(:placeholder-shown) {
+  width: 18em;
+  transition: width 800ms cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+.search-box input[type="text"]:focus + button[type="reset"],
+.search-box input[type="text"]:not(:placeholder-shown) + button[type="reset"] {
+  transform: rotate(-45deg) translateY(0);
+  transition: transform 150ms ease-out 800ms;
+}
+.search-box input[type="text"]:focus + button[type="reset"]:after,
+.search-box
+  input[type="text"]:not(:placeholder-shown)
+  + button[type="reset"]:after {
+  opacity: 1;
+  transition: top 150ms ease-out 950ms, right 150ms ease-out 950ms,
+    opacity 150ms ease 950ms;
+}
+.search-box button[type="reset"] {
+  background-color: transparent;
+  width: 1.2em;
+  height: 1.4em;
+  border: 0;
+  padding: 0;
+  outline: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0.6em;
+  right: 0.55em;
+  transform: rotate(-45deg) translateY(2.2em);
+  transition: transform 150ms ease-out 150ms;
+}
+.search-box button[type="reset"]:before,
+.search-box button[type="reset"]:after {
+  content: "";
+  background-color: #161313; /* جعل الأيقونة باللون الأبيض */
+  width: 0.25em; /* تعديل عرض الخط */
+  height: 1.2em; /* تعديل ارتفاع الخط */
+  position: absolute;
+}
+.search-box button[type="reset"]:after {
+  transform: rotate(90deg);
+  opacity: 0;
+  transition: transform 150ms ease-out, opacity 150ms ease-out;
+}
+
+@media (max-width: 600px) {
+  .search-box {
+    font-size: 16px;
+  }
+
+  .search-box input[type="text"] {
+    width: 2em;
+    height: 2em;
+  }
+
+  .search-box input[type="text"]:focus,
+  .search-box input[type="text"]:not(:placeholder-shown) {
+    width: 12em;
+  }
+}
+
+/* //////////////////////////////////////////////////////////////////////////////// 
+خةن ببلش كود الايقونالت اليمين واليسار 
+////////////////////////////////////////////////////////////////////////////////////
+*/
+
+.feature-grid {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 boxes per row */
+  gap: 15px; /* Space between boxes */
+}
+
+.feature-box {
+  background: transparent;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  opacity: 0; /* تبدأ غير مرئية */
+  transform: scale(0.8);
+}
+
+/* عند إضافة `show`، تبدأ الأنيميشن وتظل الأيقونة ظاهرة */
+.feature-box.show {
+  animation: bubblePop 0.5s ease-out forwards; /* `forwards` تحافظ على الحالة النهائية */
+}
+
+.feature-box:hover {
+  transform: scale(-0.7);
+  box-shadow: 0 12px 12px rgba(0, 0, 0, 0.3);
+
+  cursor: pointer;
+}
+
+.feature-box i {
+  font-size: 20px;
+  color: #d3d3d3;
+  margin-bottom: 8px;
+}
+.feature-box span {
+  font-size: 16px;
+  display: block;
+}
+
+@keyframes bubblePop {
+  0% {
+    transform: scale(0.5);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1; /* التأكد من بقائها ظاهرة */
+  }
+}
+
+/* تأخير متتالي لكل عنصر */
+.feature-box:nth-child(1) {
+  animation-delay: 0.1s;
+}
+.feature-box:nth-child(2) {
+  animation-delay: 0.2s;
+}
+.feature-box:nth-child(3) {
+  animation-delay: 0.3s;
+}
+.feature-box:nth-child(4) {
+  animation-delay: 0.4s;
+}
+.feature-box:nth-child(5) {
+  animation-delay: 0.5s;
+}
+.feature-box:nth-child(6) {
+  animation-delay: 0.6s;
+}
+.feature-box:nth-child(7) {
+  animation-delay: 0.7s;
+}
+.feature-box:nth-child(8) {
+  animation-delay: 0.8s;
+}
+.feature-box:nth-child(9) {
+  animation-delay: 0.9s;
+}
+.feature-box:nth-child(10) {
+  animation-delay: 1s;
+}
+
+/* 
+///////////////////////////////////////////////////////////////////////
+كود الحركات القديمة الجدول
+/////////////////////////////////////////////////////////////////////// */
+
+.transactionHistory {
+  margin-top: 4vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-radius: 15px;
+  width: 85vh;
+  height: 300px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+.transactionHistory .ttt {
+  color: #f2eeee;
+  opacity: 7;
+}
+.table-container {
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.3) transparent;
+}
+
+/* ✅ Removing glass effect from table */
+.transactions-table {
+  width: 100%;
+  height: 100%;
+  border-collapse: collapse;
+  background: none;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.725);
+}
+
+th {
+  background: rgba(96, 95, 95, 0.462);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+tr:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.status {
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-weight: bold;
+}
+
+.done {
+  background: rgba(46, 204, 113, 0.2);
+  color: #2ecc71;
+}
+
+.rejected {
+  background: rgba(231, 76, 60, 0.2);
+  color: #e74c3c;
+}
+
+.type {
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-weight: bold;
+}
+
+.withdraw {
+  color: #e67e22;
+}
+
+.deposit {
+  color: #3498db;
+}
+
+/* 🔹 View More Button */
+.view-more {
+  margin-top: 15px;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: bold;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.view-more:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.cardCredit {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 15px;
+  margin-top: 6vh;
+  width: 70vh;
+  height: 270px;
+
+  /* ✨ تأثير الزجاج ✨ */
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}

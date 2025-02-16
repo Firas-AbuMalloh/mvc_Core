@@ -1,0 +1,272 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(278deg, rgba(75,27,27,1) 11%, rgba(159,41,41,1) 100%);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+.top-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+.text-block {
+  text-align: left;
+}
+.card-image {
+  width: 400px;
+}
+.main-grid {
+  max-width: 900px;
+  margin: auto;
+  padding: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+.info-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  opacity: 0;
+  transform: translateY(20px);
+}
+.info-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(255, 255, 255, 0.2);
+}
+.section-title {
+  color: white;
+  margin-bottom: 15px;
+}
+.icon {
+  font-size: 40px;
+  color: white;
+  margin-bottom: 10px;
+}
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.info-card:nth-child(n) {
+  animation: fadeInUp 0.5s ease-in-out forwards;
+}
+@media (max-width: 520px) {
+  .main-grid {
+    grid-template-columns: 1fr;
+    padding: 15px;
+  }
+  .info-card {
+    padding: 15px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+/*
+
+////////////////////////////////////////////////////////////////////////////////////
+هذا كود الناف بار الابيض على الجهة اليسار واليمين اذا كان موجود 
+////////////////////////////////////////////////////////////////////////////////////
+
+*/
+
+.button-container {
+display: flex;
+background-color: black;
+width: 25%;
+height: 70px;
+align-items: center;
+justify-content: space-around;
+border-radius: 5px;
+
+position: relative;
+left: -100%; /* يبدأ العنصر خارج الشاشة من الجهة اليسرى */
+transition: left 1500ms ease-out; /* انيميشن لمدة ثانية */
+}
+
+#animatedDiv2.visible {
+left: 0; /* يتحرك العنصر إلى موضعه الأصلي */
+background-color: transparent;
+}
+
+.hidden {
+visibility: hidden; /* إخفاء العنصر حتى يتم تحريكه */
+}
+
+.button {
+outline: 0 !important;
+border: 0 !important;
+width: 40px;
+height: 40px;
+border-radius: 50%;
+background-color: transparent;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #d3d3d3;
+transition: all ease-in-out 0.1s;
+cursor: pointer;
+}
+
+.button:hover {
+transform: translateY(-3px);
+}
+
+.icon {
+font-size: 25px;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.navSection{
+display: flex;
+justify-content: space-between;
+width: 100%;
+}
+.all{
+display: flex;
+flex-direction: column;
+height: 100vh;
+width: 100%;
+}
+
+
+/* //////////////////////////////////////////////////////////////////////////////////// */
+
+/* //////////////////////////////////////////////////////////////////////////////////// */
+/*  */
+nav {
+position: relative;
+right: 0;
+width: 25%;
+margin-top: 1vh;
+height: 7vh;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+background-color: rgba(255, 255, 255, 0.207);
+border-radius: 15px;
+}
+nav button {
+background: none;
+color:  #d3d3d3;
+border: none;
+border-radius: 15px;
+}
+
+/* 
+//////////////////////////////////////////////////////////////////////////////////////////////////
+كوج السيرتش 
+///////////////////////////////////////////////////////////////////////////////////////////////// */
+
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700");
+
+.search-box {
+font-size: 10px;
+border: solid 0.3em #000000;
+display: inline-block;
+position: relative;
+border-radius: 2.5em;
+}
+.search-box input[type=text] {
+font-family: inherit;
+font-weight: bold;
+width: 2.5em;
+height: 2.5em;
+padding: 0.3em 2.1em 0.3em 0.7em;
+border: none;
+box-sizing: border-box;
+border-radius: 2.5em;
+transition: width 800ms cubic-bezier(0.68, -0.55, 0.27, 1.55) 150ms;
+}
+.search-box input[type=text]:focus {
+outline: none;
+}
+.search-box input[type=text]:focus, .search-box input[type=text]:not(:placeholder-shown) {
+width: 18em;
+transition: width 800ms cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+.search-box input[type=text]:focus + button[type=reset], .search-box input[type=text]:not(:placeholder-shown) + button[type=reset] {
+transform: rotate(-45deg) translateY(0);
+transition: transform 150ms ease-out 800ms;
+}
+.search-box input[type=text]:focus + button[type=reset]:after, .search-box input[type=text]:not(:placeholder-shown) + button[type=reset]:after {
+opacity: 1;
+transition: top 150ms ease-out 950ms, right 150ms ease-out 950ms, opacity 150ms ease 950ms;
+}
+.search-box button[type=reset] {
+background-color: transparent;
+width: 1.2em;
+height: 1.4em;
+border: 0;
+padding: 0;
+outline: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+position: absolute;
+top: 0.6em;
+right: 0.55em;
+transform: rotate(-45deg) translateY(2.2em);
+transition: transform 150ms ease-out 150ms;
+}
+.search-box button[type=reset]:before, .search-box button[type=reset]:after {
+content: "";
+background-color: #f2eeee; /* جعل الأيقونة باللون الأبيض */
+width: 0.25em; /* تعديل عرض الخط */
+height: 1.2em;  /* تعديل ارتفاع الخط */
+position: absolute;
+}
+.search-box button[type=reset]:after {
+transform: rotate(90deg);
+opacity: 0;
+transition: transform 150ms ease-out, opacity 150ms ease-out;
+}
+
+@media (max-width: 600px) {
+.search-box {
+font-size: 16px;
+}
+
+.search-box input[type=text] {
+width: 2em;
+height: 2em;
+}
+
+.search-box input[type=text]:focus, .search-box input[type=text]:not(:placeholder-shown) {
+width: 12em;
+}
+}
+
