@@ -1,395 +1,395 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\masterpiece.bundle.scp.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\masterpiece.bundle.scp.css",
       "PackagePath": "staticwebassets\\masterpiece.6fnqftf49q.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\css\\Profile.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\css\\Profile.css",
       "PackagePath": "staticwebassets\\css\\Profile.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\css\\aboutUs.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\css\\aboutUs.css",
       "PackagePath": "staticwebassets\\css\\aboutUs.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\css\\contact.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\css\\contact.css",
       "PackagePath": "staticwebassets\\css\\contact.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\css\\general.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\css\\general.css",
       "PackagePath": "staticwebassets\\css\\general.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\css\\main.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\css\\signin.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\css\\signin.css",
       "PackagePath": "staticwebassets\\css\\signin.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\css\\signup.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\css\\signup.css",
       "PackagePath": "staticwebassets\\css\\signup.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\2404227.webp",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\2404227.webp",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\2404227.webp"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\Itunes.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\Itunes.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\Itunes.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\Mobile Legends.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\Mobile Legends.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\Mobile Legends.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\Neon-Black-Wolf-Portrait-70585565-1.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\Neon-Black-Wolf-Portrait-70585565-1.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\Neon-Black-Wolf-Portrait-70585565-1.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\OIP.jpg",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\OIP.jpg",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\OIP.jpg"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\PUBG-Character-PNG-Picture.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\PUBG-Character-PNG-Picture.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\PUBG-Character-PNG-Picture.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\R.jpg",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\R.jpg",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\R.jpg"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\Roblox.jpeg",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\Roblox.jpeg",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\Roblox.jpeg"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\Screenshot 2024-12-31 002933.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\Screenshot 2024-12-31 002933.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\Screenshot 2024-12-31 002933.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\Visa_Logo.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\Visa_Logo.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\Visa_Logo.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\apex.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\apex.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\apex.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\fortnite-outfit-liteshow-768x803.webp",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\fortnite-outfit-liteshow-768x803.webp",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\fortnite-outfit-liteshow-768x803.webp"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\fortnite.jpeg",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\fortnite.jpeg",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\fortnite.jpeg"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\fortnite.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\fortnite.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\fortnite.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\googleplay.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\googleplay.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\googleplay.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\image_red_neon.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\image_red_neon.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\image_red_neon.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\nintendo.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\nintendo.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\nintendo.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\playstation-removebg-preview.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\playstation-removebg-preview.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\playstation-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\pubg-2019-1i.jpg",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\pubg-2019-1i.jpg",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\pubg-2019-1i.jpg"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\pubg.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\pubg.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\pubg.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\pubgMobile.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\pubgMobile.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\pubgMobile.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\rezer.avif",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\rezer.avif",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\rezer.avif"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\steam-removebg-preview.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\steam-removebg-preview.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\steam-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\visa.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\visa.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\visa.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\visaa.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\visaa.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\visaa.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\xbox.jpg",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\xbox.jpg",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\xbox.jpg"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\xbox2.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\HomeIMG\\xbox2.png",
       "PackagePath": "staticwebassets\\img\\HomeIMG\\xbox2.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\login_singnupIMG\\Screenshot 2024-12-31 002933.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\login_singnupIMG\\Screenshot 2024-12-31 002933.png",
       "PackagePath": "staticwebassets\\img\\login_singnupIMG\\Screenshot 2024-12-31 002933.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\img\\login_singnupIMG\\Visa-Logo-PNG-Pic.png",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\img\\login_singnupIMG\\Visa-Logo-PNG-Pic.png",
       "PackagePath": "staticwebassets\\img\\login_singnupIMG\\Visa-Logo-PNG-Pic.png"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\js\\JSS.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\js\\JSS.js",
       "PackagePath": "staticwebassets\\js\\JSS.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

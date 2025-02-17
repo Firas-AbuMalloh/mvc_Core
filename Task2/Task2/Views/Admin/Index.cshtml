@@ -1,0 +1,40 @@
+﻿@{
+    Layout = "_Layout";
+    <!-- تأكد من المسار الصحيح -->
+}
+
+
+@{
+    var users = new[]{
+
+    new{userName="Firas_Abumalloh", Age=30, email = "firasAbumalloh@gmail.com"},
+    new{userName="Ayman_Jaradat", Age=30, email = "Ayman_Jarada@gmail.com"}
+};
+
+}
+
+
+<h1>User List</h1>
+
+
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">UserNAme</th>
+            <th scope="col">Email</th>
+            <th scope="col">Age</th>
+        </tr>
+    </thead>
+
+    <tbody>
+    @foreach(var user in users){
+        <tr>
+            <td>@user.userName</td>
+            <td>@user.email</td>
+            <td>@user.Age</td>
+
+        </tr>
+    }
+    </tbody>
+</table>

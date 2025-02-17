@@ -1,0 +1,27 @@
+﻿
+
+@{
+    Layout = "_Admin";
+    string[] title = { "High Quality", "Comfortable for the eye", "beautiful and attractive" };
+    string[] price = { "155.320", "785.55", "41.652" };
+    string[] path = { "https://woodc.pk/wp-content/uploads/2023/06/jjnvcfvb.jpeg",
+    "https://s3.amazonaws.com/homestratosphere/wp-content/uploads/2016/01/27205035/13-Living-Room-Furniture-Sofas-iStock-.jpg",
+    "https://th.bing.com/th/id/R.488acc54f18268a931bff86ea39b90d7?rik=LhfZmK%2b%2bAlycGg&riu=http%3a%2f%2fwww.viahouse.com%2fwp-content%2fuploads%2f2012%2f11%2fLiving-room-furniture.jpg&ehk=o91HNi4kDGJB1MMC98rmCRCndAat6SYrBV8ARfjed30%3d&risl=&pid=ImgRaw&r=0"
+    };
+}
+
+<h1> Extraordinary rooms with elegant, yet a rustic atmosohere </h1>
+<div style="display:flex; justify-content:space-evenly">
+@for (int i = 0; i < 3; i++)
+{
+    <div class="card" style="width: 18rem;text-align:center; background-color:azure">
+        <img class="card-img-top" src="@path[i]" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">@title[i]</h5>
+
+            <p style="color:red">@price[i]</p>
+            <a href="#" style="color:black">VIEW</a>
+        </div>
+    </div>
+}
+</div>
