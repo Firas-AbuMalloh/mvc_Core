@@ -1,5 +1,5 @@
-﻿@section Styles {
-    <style >
+﻿/*@section Styles {
+    <style >*/
     body {
         font-family: Arial, sans-serif;
     }
@@ -25,6 +25,7 @@
     .content {
         padding: 20px;
     }
-
+/*
     </style>
 }
+*/

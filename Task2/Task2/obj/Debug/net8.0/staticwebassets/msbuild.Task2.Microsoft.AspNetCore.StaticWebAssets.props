@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>nk8sz0zj41</Fingerprint>
-      <Integrity>Zw1L0x1WPTheMdGwQctYQoafgWDuLjXe8Sfu1m2YPU8=</Integrity>
+      <Fingerprint>rua6qvjdjb</Fingerprint>
+      <Integrity>cyJPGu3qqZwwluUm1X5zw+BNpjY8pw4/rmVBFnNV1mU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\dashpord.css'))</OriginalItemSpec>

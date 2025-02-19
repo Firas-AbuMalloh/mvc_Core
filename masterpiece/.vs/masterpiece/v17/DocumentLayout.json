@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5746068-73B1-4518-8F72-10B601DEB1A5}|masterpiece\\masterpiece.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\masterpiece\\masterpiece\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5746068-73B1-4518-8F72-10B601DEB1A5}|masterpiece\\masterpiece.csproj|solutionrelative:masterpiece\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5746068-73B1-4518-8F72-10B601DEB1A5}|masterpiece\\masterpiece.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\masterpiece\\masterpiece\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5746068-73B1-4518-8F72-10B601DEB1A5}|masterpiece\\masterpiece.csproj|solutionrelative:masterpiece\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E5746068-73B1-4518-8F72-10B601DEB1A5}|masterpiece\\masterpiece.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\masterpiece\\masterpiece\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5746068-73B1-4518-8F72-10B601DEB1A5}|masterpiece\\masterpiece.csproj|solutionrelative:masterpiece\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5746068-73B1-4518-8F72-10B601DEB1A5}|masterpiece\\masterpiece.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\masterpiece\\masterpiece\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5746068-73B1-4518-8F72-10B601DEB1A5}|masterpiece\\masterpiece.csproj|solutionrelative:masterpiece\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5746068-73B1-4518-8F72-10B601DEB1A5}|masterpiece\\masterpiece.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\masterpiece\\masterpiece\\wwwroot\\css\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\Views\\contact\\Index.cshtml",
               "RelativeDocumentMoniker": "masterpiece\\Views\\contact\\Index.cshtml",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "contactController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\Controllers\\contactController.cs",
               "RelativeDocumentMoniker": "masterpiece\\Controllers\\contactController.cs",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "about.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\Views\\about\\about.cshtml",
               "RelativeDocumentMoniker": "masterpiece\\Views\\about\\about.cshtml",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "aboutController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\Controllers\\aboutController.cs",
               "RelativeDocumentMoniker": "masterpiece\\Controllers\\aboutController.cs",
@@ -131,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "signup.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\Views\\Home\\signup.cshtml",
               "RelativeDocumentMoniker": "masterpiece\\Views\\Home\\signup.cshtml",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\Program.cs",
               "RelativeDocumentMoniker": "masterpiece\\Program.cs",
@@ -167,15 +167,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "login.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\Views\\Home\\login.cshtml",
               "RelativeDocumentMoniker": "masterpiece\\Views\\Home\\login.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\Views\\Home\\login.cshtml",
               "RelativeToolTip": "masterpiece\\Views\\Home\\login.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T14:20:50.151Z"
+              "WhenOpened": "2025-02-16T14:20:50.151Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -203,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\masterpiece\\masterpiece\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "masterpiece\\Views\\Home\\Index.cshtml",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qs7vKuaqU0U=",
+  "dgSpecHash": "UF+mnzcE5XE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\Task2\\Task2\\Task2.csproj",
+  "projectFilePath": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\Task2\\Task2\\Task2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Orange\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Orange\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
