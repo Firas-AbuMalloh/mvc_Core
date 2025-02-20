@@ -16,7 +16,7 @@ namespace Task3.Controllers
         public IActionResult Index()
         {
 
-            ViewBag.Name = HttpContext.Session.GetString("Nmae");
+            ViewBag.Name = HttpContext.Session.GetString("Name");
             return View();
         }
 

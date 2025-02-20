@@ -5572,11 +5572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\Task3\\Task3\\Task3.csproj",
+      "projectUniqueName": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\Task3\\Task3\\Task3.csproj",
       "projectName": "Task3",
-      "projectPath": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\Task3\\Task3\\Task3.csproj",
+      "projectPath": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\Task3\\Task3\\Task3.csproj",
       "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\Task3\\Task3\\obj\\",
+      "outputPath": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\Task3\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
