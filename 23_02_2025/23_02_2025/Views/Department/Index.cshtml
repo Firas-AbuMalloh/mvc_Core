@@ -1,0 +1,37 @@
+﻿
+
+@{
+    ViewData["Title"] = "Department List";
+}
+
+<h1>Departments List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+
+            <th>Name</th>
+            <th>Description</th>
+            <th>NumOfEmployee</th>
+            <th>Requirment</th>
+         
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Dps in Model)
+        {
+            <tr>
+                <td>@Dps.Id</td>
+
+                <td>@Dps.Name</td>
+                <td>@Dps.Description</td>
+                <td>@Dps.NumOfEmployee</td>
+                <td>@Dps.Requirment</td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create", "Department")" class="btn btn-primary">Add New User</a>

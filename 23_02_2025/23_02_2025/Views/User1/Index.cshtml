@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "User List";
+}
+
+<h1>User List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create", "User1")" class="btn btn-primary">Add New User</a>
