@@ -30,5 +30,53 @@ namespace _23_02_2025.Controllers
             _dbContext.SaveChanges();
             return RedirectToAction("Create");
         }
+
+        public IActionResult Details(int id)
+        {
+            var department = _dbContext.Departments.Find(id);
+
+            if (department == null)
+            {
+                return NotFound();
+            }
+
+            return View(department);
+        }
+
+
+
+        public IActionResult Edit(int id)
+        {
+            var department = _dbContext.Departments.Find(id);
+            return View(department);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Department department)
+        {
+            
+
+                _dbContext.Departments.Update(department);
+                _dbContext.SaveChanges();
+
+                return View("Index");
+            
+        }
+
+
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            
+            var D = _dbContext.Departments.Find(id);
+                        
+
+            _dbContext.Departments.Remove(D);
+            _dbContext.SaveChanges();
+
+            return RedirectToAction("Index","Department");
+        }
+
+
     }
 }

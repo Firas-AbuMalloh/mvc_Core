@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\problem solving\\23_02_2025\\23_02_2025\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\23_02_2025\\23_02_2025\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\23_02_2025\\23_02_2025\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\23_02_2025\\23_02_2025\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\problem solving\\23_02_2025\\23_02_2025\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\23_02_2025\\23_02_2025\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\problem solving\\23_02_2025\\23_02_2025\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\23_02_2025\\23_02_2025\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\problem solving\\23_02_2025\\23_02_2025\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\problem solving\\23_02_2025\\23_02_2025\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\problem solving\\23_02_2025\\23_02_2025\\controllers\\user1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\controllers\\user1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\problem solving\\23_02_2025\\23_02_2025\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\problem solving\\23_02_2025\\23_02_2025\\models\\user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\models\\user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\problem solving\\23_02_2025\\23_02_2025\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\23_02_2025\\23_02_2025\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\problem solving\\23_02_2025\\23_02_2025\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\23_02_2025\\23_02_2025\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\23_02_2025\\23_02_2025\\views\\user1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\views\\user1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\23_02_2025\\23_02_2025\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|c:\\users\\orange\\desktop\\mvc_core\\mvc_core\\23_02_2025\\23_02_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1610B2-D238-456C-AEA3-937FAC47323C}|23_02_2025\\23_02_2025.csproj|solutionrelative:23_02_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "23_02_2025\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "23_02_2025\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:02:59.778Z",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "23_02_2025\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "23_02_2025\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T16:43:29.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "23_02_2025\\Views\\Department\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "23_02_2025\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "23_02_2025\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "23_02_2025\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T16:57:24.118Z",
+              "WhenOpened": "2025-02-24T15:56:00.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Models\\User.cs",
-              "RelativeDocumentMoniker": "23_02_2025\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Models\\User.cs",
-              "RelativeToolTip": "23_02_2025\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T16:50:03.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User1.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Models\\User1.cs",
-              "RelativeDocumentMoniker": "23_02_2025\\Models\\User1.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Models\\User1.cs",
-              "RelativeToolTip": "23_02_2025\\Models\\User1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T16:47:15.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "23_02_2025\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "23_02_2025\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T16:08:55.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "23_02_2025\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Models\\Department.cs",
-              "RelativeToolTip": "23_02_2025\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T15:42:54.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "23_02_2025\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "23_02_2025\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "23_02_2025\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "23_02_2025\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T15:41:57.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User1Controller.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Controllers\\User1Controller.cs",
-              "RelativeDocumentMoniker": "23_02_2025\\Controllers\\User1Controller.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Controllers\\User1Controller.cs",
-              "RelativeToolTip": "23_02_2025\\Controllers\\User1Controller.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T15:31:50.109Z",
+              "WhenOpened": "2025-02-24T15:35:19.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "23_02_2025\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "23_02_2025\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBUAAAAiAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "23_02_2025\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "23_02_2025\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T15:28:17.239Z",
+              "WhenOpened": "2025-02-24T13:54:01.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "23_02_2025\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "23_02_2025\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:52:22.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Views\\User1\\Index.cshtml",
+              "RelativeDocumentMoniker": "23_02_2025\\Views\\User1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Views\\User1\\Index.cshtml",
+              "RelativeToolTip": "23_02_2025\\Views\\User1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T12:15:38.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Program.cs",
+              "RelativeDocumentMoniker": "23_02_2025\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Program.cs",
+              "RelativeToolTip": "23_02_2025\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:30:17.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "23_02_2025\\Views\\Department\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "23_02_2025\\Views\\Department\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T11:28:31.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Models\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "23_02_2025\\Models\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\Models\\MyDbContext.cs",
-              "RelativeToolTip": "23_02_2025\\Models\\MyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "23_02_2025\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "23_02_2025\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T11:28:28.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "23_02_2025\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "23_02_2025\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAMwEYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T15:03:21.415Z",
+              "WhenOpened": "2025-02-24T06:25:38.281Z",
               "EditorCaption": ""
             }
           ]

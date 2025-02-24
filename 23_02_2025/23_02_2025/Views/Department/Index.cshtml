@@ -15,7 +15,10 @@
             <th>Description</th>
             <th>NumOfEmployee</th>
             <th>Requirment</th>
-         
+            <th></th>
+            <th></th>
+            <th></th>
+
         </tr>
     </thead>
     <tbody>
@@ -28,6 +31,20 @@
                 <td>@Dps.Description</td>
                 <td>@Dps.NumOfEmployee</td>
                 <td>@Dps.Requirment</td>
+                <td>
+                    <a asp-controller="Department" asp-action="Details" asp-route-id="@Dps.Id" class="btn btn-info btn-sm">Details</a>
+                </td>
+                <td>
+                    <a asp-controller="Department" asp-action="Edit" asp-route-id="@Dps.Id" class="btn btn-warning btn-sm">Edit</a>
+                </td>
+                <td>
+                    <form asp-action="Delete" method="post" onsubmit="return confirm('Are you sure you want to delete this user?');">
+                        <input type="hidden" name="id" value="@Dps.Id" />
+
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+
 
             </tr>
         }

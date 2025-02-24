@@ -1,0 +1,26 @@
+﻿@model _23_02_2025.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<div class="container mt-4">
+    <div class="card mx-auto" style="width: 25rem;">
+        <img src="@Model.Image" class="card-img-top" alt="Product Image">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">@Model.Description</p>
+            <b class="text-success">$@Model.Price</b>
+        </div>
+        <div class="card-footer text-center">
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary btn-sm">Edit</a>
+            <a asp-action="Index" class="btn btn-secondary btn-sm">Back to List</a>
+            <form method="post" asp-action="Delete">
+                
+                    
+                <button type="submit" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger btn-sm">Delete</button>
+            
+            </form>
+            </div>
+    </div>
+</div>

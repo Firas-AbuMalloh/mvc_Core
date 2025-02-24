@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nqyQbK7vu0M=",
+  "dgSpecHash": "KegPtyXYUi8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\23_02_2025.csproj",
+  "projectFilePath": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\23_02_2025.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Orange\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Orange\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

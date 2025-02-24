@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\23_02_2025.csproj": {}
+    "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\23_02_2025.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\23_02_2025.csproj": {
+    "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\23_02_2025.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\23_02_2025.csproj",
+        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\23_02_2025.csproj",
         "projectName": "23_02_2025",
-        "projectPath": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\23_02_2025.csproj",
+        "projectPath": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\23_02_2025.csproj",
         "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orange\\Desktop\\problem solving\\23_02_2025\\23_02_2025\\obj\\",
+        "outputPath": "C:\\Users\\Orange\\Desktop\\MVC_CORE\\mvc_Core\\23_02_2025\\23_02_2025\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
